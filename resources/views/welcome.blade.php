@@ -21,7 +21,7 @@
         </style>
     </head>
     <body class="antialiased">
-        <h1>Hellow World</h1>
+        <h1>The Sales Work</h1>
         <div id="example"></div>
         <div id="rename"></div>
         <script src="{{mix('js/app.js')}}"></script>
